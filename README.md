@@ -1,4 +1,4 @@
 # Road_Traffic_Localization_in_ELL
-Implementation of the paper "Road Traffic Localization in Extremely Low Light with Generative Adversarial Network"
+Implementation of the paper "Vehicle Detection and Localization in Extremely Low-Light Condition with Generative Adversarial Network and YOLOv4"
 
 Code will be made available soon
